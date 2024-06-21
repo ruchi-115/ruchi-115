@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruchi-115
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently MSCS student at NYU.
 - 💞️ I’m looking to collaborate on Web Dev Projects.
 - 📫 How to reach me out - ruchitasonawale115@gmail.com
 
